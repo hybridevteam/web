@@ -1775,6 +1775,53 @@ body {
 .cid-qQtDEpHdIw .card .card-header a.panel-title h4 .sign {
   padding-right: 1rem;
 }
+.cid-qSlUVsKDxM {
+  padding-top: 90px;
+  padding-bottom: 0px;
+  background-color: #efefef;
+}
+.cid-qSlUVsKDxM .card-img a {
+  display: block;
+  padding-top: 2rem;
+}
+.cid-qSlUVsKDxM .card-box {
+  padding: 0 2rem;
+}
+.cid-qSlUVsKDxM .mbr-section-btn {
+  padding-top: 1rem;
+}
+.cid-qSlUVsKDxM .mbr-section-btn a {
+  margin-top: 1rem;
+  margin-bottom: 0;
+}
+.cid-qSlUVsKDxM h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 2rem;
+}
+.cid-qSlUVsKDxM p {
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 1.5rem;
+}
+.cid-qSlUVsKDxM .mbr-text {
+  color: #767676;
+  text-align: center;
+}
+.cid-qSlUVsKDxM .card-wrapper {
+  padding-bottom: 2rem;
+  background: #ffffff;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-qSlUVsKDxM .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+.cid-qSlUVsKDxM .card-title {
+  text-align: center;
+}
 .cid-qwGqYv7AfB .navbar {
   background: #efefef;
   transition: none;
