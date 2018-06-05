@@ -8,15 +8,14 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
   <link rel="shortcut icon" href="assets/images/hybrid-logo-new-circle-128x128.png" type="image/x-icon">
   <meta name="description" content="We are the premier developers of simple, elegant, and useful things.">
-  <title>On Maintenance | Hybrid Development Team</title>
-  <link rel="stylesheet" href="assets/web/assets/mobirise-icons-bold/mobirise-icons-bold.css">
+  <title>Download Repository | Hybrid Development Team</title>
   <link rel="stylesheet" href="assets/web/assets/mobirise-icons/mobirise-icons.css">
   <link rel="stylesheet" href="assets/tether/tether.min.css">
   <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
   <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-grid.min.css">
   <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-reboot.min.css">
-  <link rel="stylesheet" href="assets/dropdown/css/style.css">
   <link rel="stylesheet" href="assets/socicon/css/styles.css">
+  <link rel="stylesheet" href="assets/dropdown/css/style.css">
   <link rel="stylesheet" href="assets/theme/css/style.css">
   <link href="assets/fonts/style.css" rel="stylesheet">
   <link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
@@ -25,7 +24,7 @@
   
 </head>
 <body>
-  <section class="menu cid-qS068Hvt2H" once="menu" id="menu1-2g">
+  <section class="menu cid-qS06wFg0vo" once="menu" id="menu1-2k">
 
     
 
@@ -62,84 +61,95 @@
     </nav>
 </section>
 
-<section class="engine"><a href="https://mobirise.ws/b">best free site creator</a></section><section class="cid-qMK207s1k5 mbr-fullscreen" id="header15-1s">
+<section class="engine"><a href="https://mobirise.ws">Mobirise</a></section><section class="mbr-section content4 cid-qMJxFZJvgf" id="content4-1m">
 
     
-
-    
-
-    <div class="container align-right">
-<div class="row">
-    <div class="mbr-white col-lg-8 col-md-7 content-container">
-        <h1 class="mbr-section-title mbr-bold pb-3 mbr-fonts-style display-1"><br>ON MAINTENANCE</h1>
-        <p class="mbr-text pb-3 mbr-fonts-style display-5">HybridTeam's website is currently offline for maintenance and updates. Keep checking this page back until it goes online.<br><br>Need assistance? Simply fill out the form, or contact us through our social pages below.</p>
-    </div>
-    <div class="col-lg-4 col-md-5">
-    <div class="form-container">
-        <div class="media-container-column" data-form-type="formoid">
-            <div data-form-alert="" hidden="" class="align-center">Thanks for filling out the form!</div>
-            <form class="mbr-form" action="https://mobirise.com/" method="post" data-form-title="Mobirise Form"><input type="hidden" name="email" data-form-email="true" value="X+c/4HacXyoZhdXqaWJ0L8+27okjKBCehAZx2YC+lWhYBhPJ9+fQ0WlzWa/AHObAx/jPI/ldjlYWW+Cb/f3VnaERSD3X+USH7QS48cDs9BYiMGUWVM+6R6weljbJGj4q" data-form-field="Email">
-                <div data-for="name">
-                    <div class="form-group">
-                        <input type="text" class="form-control px-3" name="name" data-form-field="Name" placeholder="Name" required="" id="name-header15-1s">
-                    </div>
-                </div>
-                <div data-for="email">
-                    <div class="form-group">
-                        <input type="email" class="form-control px-3" name="email" data-form-field="Email" placeholder="Email" required="" id="email-header15-1s">
-                    </div>
-                </div>
-                
-                <div class="form-group" data-for="message">
-                    <textarea type="text" class="form-control px-3" name="message" rows="7" placeholder="Message" data-form-field="Message" id="message-header15-1s"></textarea>
-                </div>
-                <span class="input-group-btn"><button href="" type="submit" class="btn btn-form btn-info-outline display-4">SEND FORM</button></span>
-            </form>
-        </div>
-    </div>
-    </div>
-</div>
-    </div>
-    
-</section>
-
-<section class="cid-qMK2mrTpFi" id="social-buttons2-1t">
-
-    
-
-    <div class="mbr-overlay" style="opacity: 0.2; background-color: rgb(124, 209, 246);">
-    </div>
 
     <div class="container">
         <div class="media-container-row">
-            <div class="col-md-8 align-center">
-                <h2 class="pb-3 mbr-fonts-style display-2">WE ARE SOCIAL</h2>
-                <div class="social-list pl-0 mb-0">
-                    <a href="https://t.me/hybridevelopersbot" target="_blank">
-                        <span class="px-2 mbr-iconfont mbr-iconfont-social socicon-telegram socicon"></span>
-                    </a>
-                    <a href="mailto:support@hybridteam.uu.me">
-                        <span class="px-2 mbr-iconfont mbr-iconfont-social socicon-mail socicon"></span>
-                    </a>
-                    <a href="https://facebook.com/hybridevteam" target="_blank">
-                        <span class="px-2 mbr-iconfont mbr-iconfont-social socicon-facebook socicon"></span>
-                    </a>
-                    <a href="https://goo.gl/forms/KLXq1M8UMf2snCZe2" target="_blank">
-                        <span class="px-2 mbr-iconfont mbr-iconfont-social mbrib-like"></span>
-                    </a>
-                    <a href="https://plus.google.com/u/0/+Mobirise" target="_blank">
-                        
-                    </a>
-                    <a href="https://www.behance.net/Mobirise" target="_blank">
-                        
-                    </a>
-                </div>
+            <div class="title col-12 col-md-8">
+                <h2 class="align-center pb-3 mbr-fonts-style display-2">
+                    Downloads</h2>
+                <h3 class="mbr-section-subtitle align-center mbr-light mbr-fonts-style display-4">
+                    The official download repository for HybridTeam's projects. From Miix to ViBye.</h3>
+                
             </div>
         </div>
     </div>
 </section>
 
-<section once="" class="cid-qMy9Cpr2bJ" id="footer7-1r">
+<section class="accordion2 cid-qS49fiGuXS" id="accordion2-2v">
+
+    
+
+
+    
+    <div class="container">
+        <div class="media-container-row pt-5">
+            <div class="accordion-content">
+                <h2 class="mbr-section-title align-center pb-3 mbr-fonts-style display-1">
+                        Miix 5</h2>
+                <h3 class="mbr-section-subtitle pt-2 align-center mbr-light mbr-fonts-style display-7">The perfection in design is here. Dreamified, beautified, Miix 5.<br><strong>Select your device below.
+                </strong></h3>
+                <div id="bootstrap-accordion_2" class="panel-group accordionStyles accordion pt-5 mt-3" role="tablist" aria-multiselectable="true">
+                        <div class="card">
+                            <div class="card-header" role="tab" id="headingOne">
+                                <a role="button" class="collapsed panel-title text-black" data-toggle="collapse" data-parent="#bootstrap-accordion_2" data-core="" href="#collapse1_2" aria-expanded="false" aria-controls="collapse1">
+                                    <h4 class="mbr-fonts-style display-5">
+                                        <span class="sign mbr-iconfont mbri-arrow-down inactive"></span> Samsung Galaxy Grand Prime</h4>
+                                </a>
+                            </div>
+                            <div id="collapse1_2" class="panel-collapse noScroll collapse" role="tabpanel" aria-labelledby="headingOne">
+                                <div class="panel-body mbr-section-btn p-4">
+                                    <a class="btn btn-md btn-white-outline display-4" href="https://drive.google.com/uc?export=download&id=1e1MWg7JZJ8NnnXIncHI9jM830_yHyK3y">DOWNLOAD MIIX 5 FOR THE SAMSUNG GALAXY GRAND PRIME</a><p class="mbr-fonts-style panel-text display-7"><br>It is advised to do a software update <strong>immediately </strong>after setup.<br><strong>Go to&nbsp;</strong>Settings &gt; System updates &gt; Software updates<a href="https://drive.google.com/uc?export=download&id=1e1MWg7JZJ8NnnXIncHI9jM830_yHyK3y"><br></a><em><br></em><br><em>All aforemented devices are supported by one installer only.
+</em><br>- Galaxy Grand Prime DUOS (SM-G530H/DS) [XCU/XCS]
+<br>- Galaxy Grand Prime DUOS (SM-G530H/DS) [XXU/XXS]
+<br>- Galaxy Grand Prime (SM-G530H/DV) [XXU/XXS]
+<br>- Galaxy Grand Prime LTE (SM-G530F) [XXU/XXS]
+<br>- Galaxy Grand Prime LTE (SM-G530FZ) [XXU]
+<br>- Galaxy Gran Prime (SM-G530BT) [XXU/XXS]<br><br>It is recommended to have <strong>at least TWRP 3.x </strong>installed for Google Apps to install properly.<br></p>
+                                </div>
+                            </div>
+                        </div>
+                
+                        
+                
+                        
+                
+                        
+                
+                        
+                
+                        
+                </div>
+            </div>
+            <div class="mbr-figure" style="width: 39%;">
+                    <img src="assets/images/heroimage-miix.png" alt="Mobirise" title="">
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="mbr-section info1 cid-qS6fLU0mSN" id="info1-2z">
+
+    
+
+    
+    <div class="container">
+        <div class="row justify-content-center content-row">
+            <div class="media-container-column title col-12 col-lg-7 col-md-6">
+                
+                <h2 class="align-left mbr-bold mbr-fonts-style display-5">
+                    HAVING ISSUES WITH MIIX?</h2>
+            </div>
+            <div class="media-container-column col-12 col-lg-3 col-md-4">
+                <div class="mbr-section-btn align-right py-4"><a class="btn btn-white-outline display-4" href="faq-miix.html">SEE FAQ</a></div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section once="" class="cid-qMxxmraZ3A" id="footer7-10">
 
     
 
@@ -188,12 +198,10 @@
   <script src="assets/tether/tether.min.js"></script>
   <script src="assets/bootstrap/js/bootstrap.min.js"></script>
   <script src="assets/dropdown/js/script.min.js"></script>
-  <script src="assets/sociallikes/social-likes.js"></script>
-  <script src="assets/parallax/jarallax.min.js"></script>
-  <script src="assets/smoothscroll/smooth-scroll.js"></script>
   <script src="assets/touchswipe/jquery.touch-swipe.min.js"></script>
+  <script src="assets/mbr-switch-arrow/mbr-switch-arrow.js"></script>
+  <script src="assets/smoothscroll/smooth-scroll.js"></script>
   <script src="assets/theme/js/script.js"></script>
-  <script src="assets/formoid/formoid.min.js"></script>
   
   
 </body>
